@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+
+I'm 23 years old, 
+and I am a physical education teacher. 
+
+I have been working successfully at a school for the past 5 years and also manage my own blog on Ins.
 <!--
 **MyroslavHesyk/MyroslavHesyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
