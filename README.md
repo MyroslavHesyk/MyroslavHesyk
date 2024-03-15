@@ -4,17 +4,19 @@
 <h3 align="center">And also a teacher of programming for children in <a href="https://www.instagram.com/it_elit_school/" target="_blank">IT-Elit</a>  </h3>
 
 
-<!--
-**MyroslavHesyk/MyroslavHesyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MyroslavHesyk/count.svg" />
+</p>
+<p align="center">
+<a href="https://now-playing-66mfrri4j-teuchezh.vercel.app/now-playing?open">
+    <img src="https://now-playing-66mfrri4j-MyroslavHesyk.vercel.app/now-playing" width="512" height="128">
+</a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MyroslavHesyk&count_private=true&show_icons=true&theme=buefy" />
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyroslavHesyk&layout=compact&theme=buefy" />
+</p>
