@@ -2,9 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=e7c201&text=Hi%20there,%20I'm%20Myroslav%20&reversal=false&fontAlign=50&textBg=false&fontSize=58&animation=scaleIn&strokeWidth=0&descAlignY=52&fontAlignY=40)
 -->
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=e7c201&text=Hi%20there,%20I'm%20Myroslav%20&reversal=false&fontAlign=50&textBg=false&fontSize=58&animation=scaleIn&strokeWidth=0&descAlignY=52&fontAlignY=40" alt="header">
+  
 </div>
+
 
 <h3 align="center">Physical education teacher and <a href="https://www.instagram.com/myroslav_hesyk/" target="_blank">blogger</a>  </h3>
 <h3 align="center">And also a teacher of programming for children in <a href="https://www.instagram.com/it_elit_school/" target="_blank">IT-Elit</a>  </h3>
@@ -29,16 +32,16 @@
 <div style='display: inline-block; margin-left: 10px;'>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MyroslavHesyk&layout=compact&theme=buefy" />
 </div>
+  
 </div>
 
 
 
 <p align="center"> 
  <i> Visitor count</i><br>
-  <img src="https://profile-counter.glitch.me/MyroslavHesyk/count.svg" />
- 
+  <img src="https://profile-counter.glitch.me/MyroslavHesyk/count.svg" /> <br>
+    <img src="https://emojicdn.elk.sh/🇺🇦" height="64"/>
 </p>
-
 
 
 
