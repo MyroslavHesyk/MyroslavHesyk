@@ -1,10 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/myroslav-hesyk/" target="_blank">Myroslav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Physical education teacher and <a href="https://www.instagram.com/myroslav_hesyk/" target="_blank">blogger</a>  </h3>
+<h3 align="center">And also a teacher of programming for children in <a href="https://www.instagram.com/it_elit_school/" target="_blank">IT-Elit</a>  </h3>
 
 
-I'm 23 years old, 
-and I am a physical education teacher. 
-
-I have been working successfully at a school for the past 5 years and also manage my own blog on Ins.
 <!--
 **MyroslavHesyk/MyroslavHesyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
