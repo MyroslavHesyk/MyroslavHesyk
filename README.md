@@ -9,7 +9,7 @@
 </div>
 
 
-<h3 align="center">Physical education teacher and <a href="https://www.instagram.com/myroslav_hesyk/" target="_blank">blogger</a>  </h3>
+<h3 align="center">Сomputer science teacher and <a href="https://www.instagram.com/myroslav_hesyk/" target="_blank">blogger</a>  </h3>
 <h3 align="center">And also a teacher of programming for children in <a href="https://www.instagram.com/it_elit_school/" target="_blank">IT-Elit</a>  </h3>
 
 <h3 align="center">Programming languages and technologies with which I work: </h3>
