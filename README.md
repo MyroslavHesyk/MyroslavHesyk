@@ -118,26 +118,6 @@ My work combines simulator-based practice, RC radio controllers, and FPV equipme
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-  <img
-    width="49%"
-    src="./profile/stats.svg"
-    alt="Myroslav's GitHub Statistics"
-  />
-
-  <img
-    width="49%"
-    src="./profile/top-langs.svg"
-    alt="Most Used Programming Languages"
-  />
-
-</div>
-
----
-
 ## Connect With Me
 
 <div align="center">
